@@ -2,12 +2,8 @@ requests
 pandas
 numpy
 psycopg2-binary
-pymongo
-elasticsearch
-python-dotenv
 jupyter
 fastapi
 uvicorn
 matplotlib
-plotly
-streamlit
+scikit-learn
